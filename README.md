@@ -5,7 +5,7 @@ If you would like to be listed in tornado.cash UI relayer's dropdown option, ple
 1. Setup tornado.cash relayer node https://github.com/tornadocash/relayer/releases/tag/2.0
 2. Setup ENS subdomain(kovan.****.eth) with TEXT record and URL key that points to your DNS or IP address.
 3. Send a transaction to RelayersContest contract [contest.tornadocash.eth](https://etherscan.io/address/0x5f556365926f95f0d4cd80333c23d318b4b5a77a#writeContract) on mainnet by calling a `register` function with your ENS name as a parameter.
-4. Test your relayer setup at https://stage.tornado.cash by choosing custom relayer's option.
+4. Test your relayer setup on Kovan testnet at https://stage.tornado.cash by choosing custom relayer's option.
 
 Registration ends on December 10 5:00 AM UTC
 Contest starts as soon as the registration ends
